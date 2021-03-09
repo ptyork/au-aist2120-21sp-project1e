@@ -1,0 +1,13 @@
+alan.alda,D
+benny.barker,B
+chloe.carter,A
+demarcus.dalton,B
+elena.etcher,A
+farad.fami,B
+gizelle.garner,A
+helena.homer,A
+issac.imogen,C
+jessica.jordan,C
+katya.kruschev,F
+latisha.love,D
+marco.massey,B
